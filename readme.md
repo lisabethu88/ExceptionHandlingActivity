@@ -8,11 +8,11 @@ To get set up first create a virtual environment.
 
 `$ python3 -m venv venv`
 
-Then activate the environment:
+Next activate the environment:
 
 `$ source venv/bin/activate`
 
-You can then install the dependencies with:
+Finally, install the dependencies with:
 
 `$ pip install -r requirements.txt`
 
