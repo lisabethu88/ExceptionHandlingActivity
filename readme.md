@@ -1,6 +1,6 @@
 # Exception Handling Activity
 
-This repository is used in the Ada Exception Activity Activity as an exercise for Ada students to practice generating exceptions in their code and writing test cases that expect exceptions.
+This repository is used in the Ada Exception Handling Activity as an exercise for Ada students to practice generating exceptions in their code and writing test cases that expect exceptions.
 
 ## Setup
 
